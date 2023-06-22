@@ -12,5 +12,6 @@ public class TestMainClass {
         System.out.println(Tesla.equalsOneArg(Porsche));
 
         Tesla.carAssistant();
+        //Delete default class
     }
 }
